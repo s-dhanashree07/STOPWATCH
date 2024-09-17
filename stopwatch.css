@@ -12,7 +12,13 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.heading{
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    color: #e9ecef;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+}
 .stopwatch {
     color: white;
     margin: 0 auto;
